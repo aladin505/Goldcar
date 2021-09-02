@@ -1,0 +1,303 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(../images/773b2fae456f0c191d56374285538691a50f67db.jpg);
+    background-size: 100%;
+    position: relative;
+}
+.form{   
+    margin-top: 150px;
+    margin-left:  700px;
+    padding-top: 10px;  
+}
+.form .ism{
+    width: 200px;
+    height: 28px;
+    border: 1px solid #f8b240;
+    outline: none;  
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center; 
+    background-color: #eaebec;  
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);
+    /* opacity: 80%;  */    
+}
+.form .ism:hover{
+    border: 3px solid red;
+    font-size: 15px;
+    margin-top: 8px;
+    margin-left: 13px;
+    box-shadow: 5px 5px 8px rgb(32, 32, 32);
+    background-color: #ffff;
+}
+.form .fam{
+    width: 200px;
+    height: 28px;
+    border: 1px solid #f8b240;
+    outline: none;  
+    margin-left: 15px;
+    margin-top: 18px;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #eaebec;
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);  
+}
+.form .fam:hover{
+    border: 3px solid red;
+    font-size: 15px;
+    margin-top: 8px;
+    margin-left: 13px;
+    box-shadow: 5px 5px 8px rgb(32, 32, 32);
+    background-color: #ffff;
+}
+.form .tel{
+    width: 200px;
+    height: 28px;
+    border: 1px solid #f8b240;
+    outline: none;   
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #eaebec;  
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);
+}
+.form .tel:hover{
+    border: 3px solid red;
+   font-size: 15px;
+   margin-top: 8px;
+   margin-left: 13px;
+   box-shadow: 5px 5px 8px rgb(32, 32, 32);
+   background-color: #ffff;
+}
+.form .yol{
+    width: 206px;
+    height: 32px;
+    border: 1px solid #f8b240;
+    outline: none;  
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center;
+    padding-left: 65px;
+    background-color: #eaebec; 
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);     
+}
+.form .yol:hover{
+    border: 3px solid red;
+   font-size: 15px;
+   margin-top: 8px;
+   margin-left: 13px;
+   box-shadow: 5px 5px 8px rgb(32, 32, 32);
+   background-color: #ffff;
+}
+.form .oqi{
+    width: 206px;
+    height: 32px;
+    border: 1px solid #f8b240;
+    outline: none;  
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center;
+    padding-left: 70px;
+    background-color: #eaebec;  
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);
+}
+.form .oqi:hover{
+    border: 3px solid red;
+   font-size: 15px;
+   margin-top: 8px;
+   margin-left: 13px;
+   box-shadow: 5px 5px 8px rgb(32, 32, 32);
+   background-color: #ffff;
+}
+.form .tim{
+    width: 203px;
+    height: 30px;
+    border: 1px solid #f8b240;
+    outline: none;  
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #eaebec;  
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);
+}
+.form .tim:hover{
+    border: 3px solid red;
+   font-size: 15px;
+   margin-top: 8px;
+   margin-left: 13px;
+   box-shadow: 5px 5px 8px rgb(32, 32, 32);
+   background-color: #ffff;
+}
+.form .yash{
+    width: 200px;
+    height: 30px;
+    border: 1px solid #f8b240;
+    outline: none;  
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #eaebec; 
+    box-shadow: 1px 1px 7px rgb(184, 183, 183); 
+}
+.form .yash:hover{
+    border: 3px solid red;
+   font-size: 15px;
+   margin-top: 8px;
+   margin-left: 13px;
+   box-shadow: 5px 5px 8px rgb(32, 32, 32);
+   background-color: #ffff;
+}
+.form .dat{
+    width: 203px;
+    height: 30px;
+    border: 1px solid #f8b240;
+    outline: none;  
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #eaebec;
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);  
+}
+.form .dat:hover{
+    border: 3px solid red;
+   font-size: 15px;
+   margin-top: 8px;
+   margin-left: 13px;
+   box-shadow: 5px 5px 8px rgb(32, 32, 32);
+   background-color: #ffff;
+}
+.form .tes{
+    width: 424px;
+    height: 30px;
+    margin-top: 18px;
+    margin-left: 15px;
+    border-radius: 12px;
+    text-align: center;
+    outline: none;
+    background-color: #eaebec; 
+    border: 1px solid#f8b240; 
+    box-shadow: 1px 1px 7px rgb(184, 183, 183);
+}
+.form .tes:hover{    
+    border: 3px solid red;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 13px;
+    background-color: #ffff;
+    box-shadow: 5px 5px 8px rgb(32, 32, 32);
+}
+.but{
+    position: relative;
+    display: inline-block;  
+    color: rgb(2, 47, 248);
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    text-decoration: none; 
+    text-align: center;  
+    font-size:30px;
+    transition: 1s;
+    letter-spacing: 5px;
+    margin-top: 40px;
+    margin-left: 740px;
+    overflow: hidden;   
+}
+.but:hover {
+    background: rgba(54, 4, 236, 0.89);
+    color: black;
+   
+}
+ .but:nth-child(1) {
+    filter: hue-rotate(270deg);
+}
+.but:nth-child(2) {
+    filter: hue-rotate(110deg);
+} 
+.but span {
+    position: absolute;
+    display: block;
+}
+.but span:nth-child(1) {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg,transparent,rgb(0, 38, 255));
+    animation: animate1 1s linear infinite;
+}
+@keyframes animate1 {
+    0%{
+        left: -100%;
+    }
+    50%,100%{
+        left: 100%;
+    }
+}
+.but span:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg,transparent,rgb(38, 0, 255));
+    animation: animate2 1s linear infinite;
+    animation-delay: 0.25s;
+}
+@keyframes animate2 {
+    0%{
+        top: -100%;
+    }
+    50%,100%{
+        top: 100%;
+    }
+}
+.but span:nth-child(3) {
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg,transparent,rgb(4, 0, 255));
+    animation: animate3 1s linear infinite;
+    animation-delay: 0.50s;
+}
+@keyframes animate3 {
+    0%{
+        right: -100%;
+    }
+    50%,100%{
+        right: 100%;
+    }
+}
+
+
+.but span:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg,transparent,rgb(4, 0, 255));
+    animation: animate4 1s linear infinite;
+    animation-delay: 0.75s;
+}
+@keyframes animate4{
+    0%{
+        bottom: -100%;
+    }
+    50%,100%{
+        bottom: 100%;
+    }
+}
+.home{
+    position: absolute;
+    text-decoration: none;
+    color: #fff;
+    top: -110px;
+    right: 50px;
+}
